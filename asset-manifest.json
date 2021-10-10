@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/repository-name/static/css/main.a617e044.chunk.css",
-    "main.js": "/repository-name/static/js/main.1f68fed6.chunk.js",
-    "main.js.map": "/repository-name/static/js/main.1f68fed6.chunk.js.map",
-    "runtime-main.js": "/repository-name/static/js/runtime-main.f0fd5315.js",
-    "runtime-main.js.map": "/repository-name/static/js/runtime-main.f0fd5315.js.map",
-    "static/js/2.0f19b05c.chunk.js": "/repository-name/static/js/2.0f19b05c.chunk.js",
-    "static/js/2.0f19b05c.chunk.js.map": "/repository-name/static/js/2.0f19b05c.chunk.js.map",
-    "static/js/3.590eb7a2.chunk.js": "/repository-name/static/js/3.590eb7a2.chunk.js",
-    "static/js/3.590eb7a2.chunk.js.map": "/repository-name/static/js/3.590eb7a2.chunk.js.map",
-    "index.html": "/repository-name/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/repository-name/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.0f19b05c.chunk.js.LICENSE.txt": "/repository-name/static/js/2.0f19b05c.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/repository-name/static/media/logo.6ce24c58.svg"
+    "main.css": "/CursoReact/static/css/main.a617e044.chunk.css",
+    "main.js": "/CursoReact/static/js/main.1f68fed6.chunk.js",
+    "main.js.map": "/CursoReact/static/js/main.1f68fed6.chunk.js.map",
+    "runtime-main.js": "/CursoReact/static/js/runtime-main.36ac3889.js",
+    "runtime-main.js.map": "/CursoReact/static/js/runtime-main.36ac3889.js.map",
+    "static/js/2.0f19b05c.chunk.js": "/CursoReact/static/js/2.0f19b05c.chunk.js",
+    "static/js/2.0f19b05c.chunk.js.map": "/CursoReact/static/js/2.0f19b05c.chunk.js.map",
+    "static/js/3.590eb7a2.chunk.js": "/CursoReact/static/js/3.590eb7a2.chunk.js",
+    "static/js/3.590eb7a2.chunk.js.map": "/CursoReact/static/js/3.590eb7a2.chunk.js.map",
+    "index.html": "/CursoReact/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/CursoReact/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.0f19b05c.chunk.js.LICENSE.txt": "/CursoReact/static/js/2.0f19b05c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/CursoReact/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f0fd5315.js",
+    "static/js/runtime-main.36ac3889.js",
     "static/js/2.0f19b05c.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.1f68fed6.chunk.js"
